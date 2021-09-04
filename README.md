@@ -2,9 +2,6 @@
 https://github.com/qbcore-framework
 
 
-Cropped - Banner
-Cropped - Banner
-4000×1393 156 KB
 At long last and many discussions later, we made it! It is with extreme pleasure and excitement to be able to share this work with you! The framework previously known as “qbus” has been revamped, updated and continuously maintained in the form of what is now known as “QBCore”!
 
 What does this framework offer?
@@ -35,4 +32,4 @@ Some of the code has been used from the well known ESX framework and has been li
 
 Original Framework Author: KASH - Contributors: s0me1k, SirMarkQB, onno204 & Qui-mey
 
-GitHub: QBCore Framework (github.com) 1.9k
+GitHub: QBCore Framework (github.com) 
